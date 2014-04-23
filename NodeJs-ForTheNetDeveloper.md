@@ -18,3 +18,4 @@ an application and each step along the way we will compare and contrast the 2 la
 
 ###Dates Given
 2014 - VS Live Orlando (submitted)
+2014 - BuildStuff.lt (submitted) (Nov 19-21)
