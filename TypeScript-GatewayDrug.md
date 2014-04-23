@@ -10,6 +10,12 @@ This is where Typescript comes in. TypeScript is a typed superset of JavaScript 
 	
 In this session we will focus on how to go from 0 to 60 in JavaScript in no time flat all because of the awesomeness that is Typescript. By the end of this interactive session you should be hooked on JavaScript , I mean Typescript, and the fear and intimidation of learning JavaScript should be gone.
 
+###Learning Objectives
+- Why TypeScript was created it and why to use it
+- Jumpstart your JavaScript knowledge 
+- How to create clean and elegant JavaScript w/ TypeScript
+
 ###Dates Given
 2014 - Prairie Developer Conference
+2014 - VS Live Orlando (submitted)
 2013 - DevReach 

@@ -15,5 +15,11 @@ In this session we will explore the problems SignalR solves and how to solve the
 ** NOTE **
 This will be an interactive session where the participants will take part in the demo.
 
-## Dates Given
+### Learning Objectives
+- Why Realtime is important
+- How to build Realtime into existing applications
+- How Realtime works w/ SignalR and ASP.Net MVC
+
+### Dates Given
 2014 - Strangloop (submitted)
+2014 - VS Live Orlando (submitted)
