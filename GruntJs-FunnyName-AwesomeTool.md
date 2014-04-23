@@ -13,4 +13,5 @@ If your project requires the ability to transform, validate, compile, along with
 ###Dates Given
 2014 - Charlotte Developers Guild
 2014 - Prairie Developer Conference
+2014 - Strangloop (Submitted)
 
