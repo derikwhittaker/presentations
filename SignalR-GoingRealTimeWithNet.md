@@ -21,5 +21,6 @@ This will be an interactive session where the participants will take part in the
 - How Realtime works w/ SignalR and ASP.Net MVC
 
 ### Dates Given
-2014 - Strangloop (submitted)
-2014 - VS Live Orlando (submitted)
+- 2014 - Strangloop (submitted)
+- 2014 - VS Live Orlando (submitted)
+- 2014 - BuildStuff.lt (submitted) (Nov 19-21)
