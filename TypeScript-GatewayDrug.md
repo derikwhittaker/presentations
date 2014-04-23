@@ -16,6 +16,7 @@ In this session we will focus on how to go from 0 to 60 in JavaScript in no time
 - How to create clean and elegant JavaScript w/ TypeScript
 
 ###Dates Given
-2014 - Prairie Developer Conference
-2014 - VS Live Orlando (submitted)
-2013 - DevReach 
+- 2014 - Prairie Developer Conference
+- 2014 - VS Live Orlando (submitted)
+- 2014 - BuildStuff.lt (submitted) (Nov 19-21)
+- 2013 - DevReach 
