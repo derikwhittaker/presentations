@@ -1,15 +1,10 @@
 Derik Whittaker - Bio
 ==============
-###Title
-TypeScript -- The Gateway Drug
+Derik Whittaker is a Software Architect who specializes in all things .Net. Derik has been building enterprise systems on top of the .Net technology stack for over 14 years and along the way has picked up a thing or two about how to create enterprise scale software systems. 
 
-###Abstract
-If you have not been paying attention JavaScript has pretty much won the war of 'write once, run anywhere' as it can now run on both the client and server side.  And if you're like most people who are new to JavaScript, it can seem scary and intimidating to try to pick up.
-    
-This is where Typescript comes in. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.  Typescript tries to make sense of some of JavaScript's language 'issues' (aka wth does that syntax mean).  
-	
-In this session we will focus on how to go from 0 to 60 in JavaScript in no time flat all because of the awesomeness that is Typescript. By the end of this interactive session you should be hooked on JavaScript , I mean Typescript, and the fear and intimidation of learning JavaScript should be gone.
+During his 14 year career Derik has worked in many different industries ranging from Marking, Healthcare, Retail, Insurance, Automotive and Online Entertainment. Currently Derik is working for a Technology startup (orgspan.com) in Durham North Carolina leading their windows phone and windows modern UI application development.  Derik believes that the job of a developer is more than just turning syntax into working 1’s and 0’s. He believes that our job is to produce a system which gets out of the users way and allows them to do their job better. 
 
-###Dates Given
-2014 - Prairie Developer Conference
-2013 - DevReach 
+Derik has been awarded the Microsoft MVP in C# for the past 6 years. Along with being an MVP he is also a member of the ASPInsiders group. Derik is also a Pluralsight Author with multiple course under his belt. He is a community leader, helping to organize events such as Chicago Codeapalooza, Chicago Code Camp and the Raleigh Code Camp. 
+
+Outside of his day job you can find Derik hanging out with his beautiful wife Tiffany and his 2 awesome boys Brendan and Ryan.
+
