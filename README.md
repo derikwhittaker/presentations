@@ -10,6 +10,7 @@ Presentations
 
 Topic Ideas
 * 0 to React in 60 minutes
+* Testing your React app, make it bullet proof
 * Lambda, Lambda, Lambda => What is AWS Lambda and how can I use its awesome today
 
 
