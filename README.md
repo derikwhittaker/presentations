@@ -13,7 +13,7 @@ Topic Ideas
 * Testing your React app, make it bullet proof
 * Lambda, Lambda, Lambda => What is AWS Lambda and how can I use its awesome today
 * Mastering Code Reviews
-* Identifying the Stench: Learning to identify and resolve code smells
+* [Identifying the Stench:](Craftsmanship-IdentifyingTheStench.md) Learning to identify and resolve code smells
 
 
 2018 Conferences
