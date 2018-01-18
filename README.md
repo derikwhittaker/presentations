@@ -9,7 +9,7 @@ Presentations
 * [SignalR - Going Realtime W/ .Net] (SignalR-GoingRealTimeWithNet.md)
 
 Topic Ideas
-* 0 to React in 60 minutes
+* [0 to React in 1 Session](React-0toReactIn1Session.md): How to jumpstart you React experiance
 * Testing your React app, make it bullet proof
 * Lambda, Lambda, Lambda => What is AWS Lambda and how can I use its awesome today
 * [Mastering Code Reviews:](Craftsmanship-MasteringCodeReviews.md) How to survive the onslaught of feedback
