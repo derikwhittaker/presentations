@@ -12,7 +12,7 @@ Topic Ideas
 * 0 to React in 60 minutes
 * Testing your React app, make it bullet proof
 * Lambda, Lambda, Lambda => What is AWS Lambda and how can I use its awesome today
-* Mastering Code Reviews
+* [Mastering Code Reviews:](Craftsmanship-MasteringCodeReviews.md) How to survive the onslaught of feedback
 * [Identifying the Stench:](Craftsmanship-IdentifyingTheStench.md) Learning to identify and resolve code smells
 
 
