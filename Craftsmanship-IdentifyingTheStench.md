@@ -5,9 +5,9 @@ Identifying the Stench: Learning to identify and resolve code smells
 30-50 min
 
 ### Abstract
-Most developers want to right clean, readable and maintainable code.  But this is not always executed.  Sometimes we write code, that to use is solid, but is actually bad. This code is often refered to as 'code smell'.
+Most developers want to write clean, readable and maintainable code, but this is not always executed.  Sometimes we write code that is well.... to be nice has the stench of a wet dog. You wanted to write great code but for one reason or another it did not go as planned. Sure the code may work or solve the desired need, but it may not be maintainable or is difficult to follow. When this type of code is produced it is called a code smell.
 
-In this session we will learn what constitues a code smell, learn why they are dangerous to your code, and how to deoderize your code to remove the smells.
+In this session we will whip out the Lysol and learn how to deodorize your code.  We will look at many different examples of code smell and how we can turn the stench into sweet smelling aroma
 
 ### Learning Objectives
 * How to identify Code Smells
