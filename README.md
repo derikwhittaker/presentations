@@ -19,3 +19,4 @@ Topic Ideas
 2018 Conferences
 * Revolution Conf - May 17/18 in Virgina Beach VA => cfp.revolutionconf.com by Feb 11
 * [Code PaLOUsa 2018](http://cplspeakers.azurewebsites.net/) - March 28/29/30 - Lousiville KY => http://cplspeakers.azurewebsites.net/ Jan 19th 
+* [KCDC](https://sessionize.com/kcdc-2018) - July 11/14 KC
