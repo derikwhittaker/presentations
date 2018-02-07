@@ -17,6 +17,11 @@ Topic Ideas
 
 
 2018 Conferences
+* Prairie Dev Con Winnipeg 2018 - June 5/6 in Winnipeg => https://www.papercall.io/prdcwinnipeg2018 by Feb 19
+  * Mastering Code Reviews
+  * Identifying the Stench
+  * 0 to React in 1 session
+  * Testing your React app: Teach it to dodge bullets
 * Revolution Conf - May 17/18 in Virgina Beach VA => cfp.revolutionconf.com by Feb 11
   * Mastering Code Reviews
   * Identifying the Stench
