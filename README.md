@@ -21,6 +21,9 @@ Topic Ideas
   * Mastering Code Reviews
   * Identifying the Stench
 * [Code PaLOUsa 2018](http://cplspeakers.azurewebsites.net/) - March 28/29/30 - Lousiville KY => http://cplspeakers.azurewebsites.net/ Jan 19th 
+  * Mastering Code Reviews (accepted)
+  * Identifying the stench
+  * 0 to React in 1 session
 * [KCDC](https://sessionize.com/kcdc-2018) - July 11/14 KC
 * [Build Stuff](https://buildstuff.typeform.com/to/IKRrCv) Nov 17/18
   * Mastering Code Reviews
